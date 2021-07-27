@@ -1,8 +1,6 @@
 # CleanVac - A UVC Sanitization Unit
 
-## Team Jemma
-
-<img width="40px" align="right" alt="Jemma Logo" src="Presentation/Images/Logo.png">
+## Team Jemma <img width="40px" align="right" alt="Jemma Logo" src="Presentation/Images/Logo.png">
 
 - This is my project which I designed as a part of a small Hack-a-thon when I was pursuing my Bachelor's degree.
 - Our goal was to design a sanitization device to fight CoronaVirus.
