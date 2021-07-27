@@ -17,10 +17,7 @@
 
 ### Tools Used:
 
-<img width="40px" align="left" alt="Arduino" src="Resources/Logos/Arduino Logo.png">
-<img width="60px" align="left" alt="Solidworks" src="Resources/Logos/Solidworks Logo.png">
-<img width="30px" align="left" alt="Ideamaker" src="Resources/Logos/Ideamaker Logo.png">
-<img width="30px" align="left" alt="Eagle CAD" src="Resources/Logos/Eagle Logo.png">
-<img width="200px" align="left" alt="Proteus" src="Resources/Logos/Proteus Logo.png">
+[<img width="60px" align="left" alt="Solidworks" src="Resources/Logos/Solidworks Logo.png">](https://github.com/Parth-Robo-Mania/Clean_Vac/tree/main/3D%20Design)<img width="30px" align="left" alt="Ideamaker" src="Resources/Logos/Ideamaker Logo.png">
+[<img width="30px" align="left" alt="Eagle CAD" src="Resources/Logos/Eagle Logo.png">](https://github.com/Parth-Robo-Mania/Clean_Vac/tree/main/Presentation/Images/Electronics%20Design)[<img width="200px" align="left" alt="Proteus" src="Resources/Logos/Proteus Logo.png">](https://github.com/Parth-Robo-Mania/Clean_Vac/tree/main/Electronics/Simulation)
 <img width="80px" align="left" alt="Git" src="Resources/Logos/Git Logo.jpeg">
 <img width="30px" align="left" alt="GitHub" src="Resources/Logos/GitHub Logo.jpeg">
