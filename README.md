@@ -1,16 +1,25 @@
 # CleanVac - A UVC Sanitization Unit
 
 ## Team Jemma <img width="40px" align="left" alt="Jemma Logo" src="Presentation/Images/Logo.png">
+<br />
+<br />
 
-- This is my project which I designed as a part of a small Hack-a-thon when I was pursuing my Bachelor's degree.
-- Our goal was to design a sanitization device to fight CoronaVirus.
-- My aim was to design an automatic robot which could clean the whole house with minimal human intervention and non-contact cleaning.
+**Project Aim:** Design a sanitization device to kill COVID-19 Virus.
+- My personal goal during the project was to design an automatic robot which could clean the whole house with minimal human intervention and non-contact cleaning.
 - To achieve minimal human intervention, my plan was to introduce ROS for navigation and mapping using which the CleanVac can sanitize house using UV-C rays when instructed to do so.
 
+  <img width="1000px"  alt="Arduino" src="Presentation/Images/Mechanical Design/2.png">
+
 <br />
 <br />
 
-  <img width="1000px" alt="Arduino" src="Presentation/Images/Mechanical Design/2.png">
+### Milestones:
+- [x] 3D Modelling
+- [x] Basic Circuit Design
+- [ ] ROS Controller Design
+- [ ] Microcontroller Programming
+- [ ] ROS Setup
+- [ ] Mapping and Navigation using ROS
 
 <br />
 <br />
